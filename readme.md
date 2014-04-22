@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/is-webp](http://github.com/sindresorhus/is-webp). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-is-webp`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # is-webp [![Build Status](https://travis-ci.org/sindresorhus/is-webp.svg?branch=master)](https://travis-ci.org/sindresorhus/is-webp)
 
 > Check if a Buffer/Uint8Array is a [WebP](http://en.wikipedia.org/wiki/WebP) image
